@@ -16,7 +16,7 @@ function App() {
         <Route path="/detail/:id" element={<Detail />} />
       </Routes>
     </BrowserRouter>*/
-    //주석추가!!!!!! 2222
+    //주석추가!!!!!! 2222333333
     <div>
       <Counter />
       <div>counter : {counter}</div>
